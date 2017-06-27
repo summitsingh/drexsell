@@ -1,4 +1,5 @@
-# drexsell
+# Drexsell
+
 • Developed an intra-university e-commerce platform with a team of four members for Drexel University
 
 • Used PHP, MySQL, JavaScript and Bootstrap to create the website's backend and frontend
@@ -10,6 +11,7 @@
 • Website: https://www.drexsell.com
 
 # Team Members
+
 • Summit Singh Thakur *(Project Manager and Developer)*
 
 • Shivansh Suhane *(Project Architect and Developer)*
