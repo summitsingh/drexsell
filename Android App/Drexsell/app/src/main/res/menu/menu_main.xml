@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+
+    <item android:id="@+id/empty" android:title="Overflow"
+        android:icon="@drawable/abc_ic_menu_moreoverflow_mtrl_alpha" android:orderInCategory="101"
+        app:showAsAction="always">
+        <menu>
+            <item android:id="@+id/facebook" android:icon="@drawable/facebook500"
+                app:showAsAction="always|withText" android:title="Facebook" />
+            <item android:id="@+id/twitter" android:icon="@drawable/twitter"
+                app:showAsAction="always|withText" android:title="Twitter" />
+            <item android:id="@+id/email" android:icon="@drawable/email"
+                app:showAsAction="always|withText" android:title="Email" />
+        </menu>
+    </item>
+
+</menu>
